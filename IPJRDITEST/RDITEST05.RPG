@@ -7,9 +7,15 @@
 000700000000     H*****************************************************************
 000800240802     C                     MOVE ' '       MOZI1   5      51
 000900240802     C                     MOVE ' '       MOZI2   5      52
-001000240802     C                     MOVEL'AAAAA'   MOZI1   5
-001100240820     C                     MOVEL'Š¿Žš'  MOZI2
-001200240802     C                     DSPLY          MOZI1
-001300240802     C                     DSPLY          MOZI2
-001400240729     C                     SETON                     LR
-001500240729     C                     RETRN
+001000240820     C                     MOVE ' '       MOZI3   5      53
+001100240820     C                     MOVE ' '       MOZI4   5      54
+001200240802     C                     MOVEL'AAAAA'   MOZI1   5
+001300240820     C                     MOVEL'Š¿Žš'  MOZI2
+001400240820     C                     MOVEL'‚©‚È'  MOZI3
+001500240820     C                     MOVEL'ƒJƒi'  MOZI4
+001600240802     C                     DSPLY          MOZI1
+001700240802     C                     DSPLY          MOZI2
+001800240820     C                     DSPLY          MOZI3
+001900240820     C                     DSPLY          MOZI4
+002000240820     C                     SETON                     LR
+002100240729     C                     RETRN
