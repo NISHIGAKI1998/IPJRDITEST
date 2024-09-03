@@ -17,6 +17,7 @@
 001504240903     C*                    MOVE ' '       MOZI4   5      54
 001505240820     C                     MOVEL'AAAAA'   MOZI1
 001506240903     C*                    MOVEL'漢字'  MOZI2
+001506240903     C*　GITHUB 編集　半角ｶﾅ
 001507240903     C                     MOVEL'ｶﾅ'      MOZI2   5
 001509240820     C                     DSPLY          MOZI1
 001510240820     C                     DSPLY          MOZI2
